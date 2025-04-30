@@ -1,1 +1,9 @@
+This code is used for replicating the Kaido & Zhang (2025) Univerval Inference paper.
 
+Project Title: “Universal Inference for Incomplete Model”
+
+Project Description: The code is used to replicate the empirical illustration and simulation part of the paper (Table 1 to Table 5 and Figure 2).
+
+Project Authors: Hiroaki Kaido and Yi Zhang (2025)
+
+If you have any questions about code implementation, please send emails to yzhangjnu@outlook.com
