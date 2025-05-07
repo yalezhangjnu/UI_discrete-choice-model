@@ -6,4 +6,6 @@ Project Description: The code is used to replicate the empirical illustration an
 
 Project Authors: Hiroaki Kaido and Yi Zhang (2025)
 
+The details of replication procedures are listed in "Readme.pdf". Please read the file and follow the step to replicate all results in the paper.
+
 If you have any questions about code implementation, please send emails to yzhangjnu@outlook.com
